@@ -1,4 +1,6 @@
 challenge_response_using_hmac.py: Simple challenge-response using hmac
 
 payment_simple_transaction.py: Described by 
-![payment_simple_transaction.py](https://github.com/ursa-mikail/challenge_and_response/blob/main/images/where_challenge_responses_are_used_among_each_entity.png=100x20)
+![payment_simple_transaction.py](https://github.com/ursa-mikail/challenge_and_response/blob/main/images/where_challenge_responses_are_used_among_each_entity.png)
+
+[<img src="./images/where_challenge_responses_are_used_among_each_entity.png" width="250"/>](payment_simple_transaction.py)
