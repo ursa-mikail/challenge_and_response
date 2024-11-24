@@ -6,7 +6,7 @@
 
 ---
 
-> **[!NOTE]**  
+> [!NOTE]
 > There are many challenges and responses in this protocol. When choosing a path forward, please evaluate the context of your application and the level of security you require. Different challenges may require different solutions or security models, so choose wisely based on your specific needs.
 
 > [!TIP]
